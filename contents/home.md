@@ -5,8 +5,6 @@
 [![Semantic Scholar](https://img.shields.io/badge/Semantic_Scholar-Profile-darkblue?logo=semanticscholar)](https://www.semanticscholar.org/author/Xinpan-Yuan/20393903)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9509--0755-green?logo=orcid)](https://orcid.org/0000-0001-9509-0755)
 
----
-
 ## 📧 联系方式  
 
 - Email：`xpyuan@hut.edu.cn`  
@@ -14,7 +12,6 @@
 - Semantic Scholar：<https://www.semanticscholar.org/author/Xinpan-Yuan/20393903>  
 - ORCID：0000-0001-9509-0755:<https://orcid.org/0000-0001-9509-0755>
 
----
 
 ## 👨‍🏫 简介
 
@@ -30,8 +27,6 @@
 
 在教学方面主持多项省级与校级教改项目，指导学生在“互联网+”、中国大学生计算机设计大赛、蓝桥杯等竞赛中获国家级奖项 10 余项、省级奖项 20 余项，培养多项国家级 / 省级创新创业项目团队。
 
----
-
 ## 🔍 研究方向  
 
 - 工业智能与工业大数据分析  
@@ -39,6 +34,3 @@
 - 医学图像分析与智能诊断  
 - 相似性度量学习与高维索引结构  
 - 工业物联网与设备智能运维  
-
----
-
