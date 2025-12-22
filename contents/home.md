@@ -1,7 +1,5 @@
-# 袁鑫攀（Xinpan Yuan）
-
-湖南工业大学 计算机与人工智能学院 副院长  
-博士 / 教授 / 硕士生导师 / 系统分析师  
+# 湖南工业大学 计算机与人工智能学院 副院长  
+# 博士 / 教授 / 硕士生导师 / 系统分析师  
 
 [![DBLP](https://img.shields.io/badge/DBLP-Profile-blue?logo=semanticweb)](https://dblp.org/pid/70/10857.html)
 [![Semantic Scholar](https://img.shields.io/badge/Semantic_Scholar-Profile-darkblue?logo=semanticscholar)](https://www.semanticscholar.org/author/Xinpan-Yuan/20393903)
