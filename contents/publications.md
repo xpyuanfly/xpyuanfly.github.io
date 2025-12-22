@@ -7,8 +7,9 @@
 ### AAAI 2026（CCF A，Oral）
 - **Xinpan Yuan†**, Shaomin Xie†, Liujie Hua*, Chengyuan Zhang*, Guihu Zhao, Lin Yuanbo Wu*.  
   *Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval.*
-
-### BIBM 2026（CCF B）
+---
+## ⭐ 2025
+### BIBM 2025（CCF B）
 - 夏性权†，赵贵虎†，李津臣，**袁鑫攀***.  
   *HCSeer2: A Deep Learning-Based Multi-Scale Modeling Framework for Predicting Cold and Hot Spots of Variants in the Human Exome.*（Regular Paper）
 - **袁鑫攀†***，黄明珠.  
@@ -16,7 +17,6 @@
 - **袁鑫攀†***，李勃朝†，刘晨斌，李欣学，化刘杰，李津臣，武琳*，赵贵虎*.  
   *PBD: A Manually Curated Full-Chain Benchmark Dataset for Evaluating LLMs on ACMG PS3/BS3 Functional Evidence Acquisition.*（Short Paper）
 
-## ⭐ 2025
 ### Genetics in Medicine（中科院 1 区 TOP）
 - **Xinpan Yuan†**, Xingquan Xia†, Jinchen Li*, Guihu Zhao*.  
   *HCSeeker: A classification tool for human genetic variant hot and cold spots designed for PM1 and benign criteria.*  
@@ -64,7 +64,7 @@
 - *Advanced Font-Aware Document Hierarchy Reconstruction for Structured Parsing.*  
 - *Dual-Modal Structural Decoupling with Semantic Relation Distillation for TBPS.*  
 - *CLIO: Consistency-Aware Learning and Intra-Modal Optimization for TBPS.*
-
+---
 ## ⭐ 2024 及以前代表作
 
 ### Complex & Intelligent Systems（中科院 2 区）
@@ -124,7 +124,7 @@
 - 湖南工业大学自然科学基金（2014HZX17）  
   *连接位 Minwise 三者相似性估计*（2014–2016 · 1 万元）  
 - 湖南省青年骨干教师（2016）· 培养经费 1.5 万元
-
+---
 ## 🤝 二、横向科研项目
 
 - 风险管理系统 · 深圳亚加达信息技术 · **2025 · 5 万元**
@@ -139,7 +139,7 @@
 - CNV-seq 致病性解读咨询 · 天津中科安迪 · **2023 · 6 万元**
 - 病虫害识别边缘计算系统 · 湖南烁企网络 · **2023 · 5 万元**
 - 多云推广平台 · 深圳格栅 · **2023 · 4 万元**
-
+---
 ## 📂 三、参与科研项目
 
 - 湖南省重点研发计划（2016JC2018）：科技管理与决策大数据精准推送  
@@ -152,7 +152,7 @@
 - 中国移动科研基金（MCM20121031）：知识管理与云服务系统  
 - NSFC 面上项目（61272150）：可信服务组合演化理论  
 - NSFC 面上项目（61472450）：服务计算模式下 QoS 计算方法
-
+---
 ## 🎓 四、学生科研项目（指导）
 
 - 国家级大创：指尖飞舞（手势识别皮影戏） · 1 万元 · 在研 · 指导老师  
