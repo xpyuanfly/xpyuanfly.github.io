@@ -1,14 +1,9 @@
-# 📄 Publications（Selected）
-
+# 📄 Papers（Selected）
 > 以下为代表性论文精选列表（第一 / 通讯作者）。  
 > 完整列表请见：  
 > - DBLP：https://dblp.org/pid/70/10857  
 > - Semantic Scholar：https://www.semanticscholar.org/author/Xinpan-Yuan/20393903
-
----
-
 ## ⭐ 2026
-
 ### AAAI 2026（CCF A，Oral）
 - **Xinpan Yuan†**, Shaomin Xie†, Liujie Hua*, Chengyuan Zhang*, Guihu Zhao, Lin Yuanbo Wu*.  
   *Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval.*
@@ -21,10 +16,7 @@
 - **袁鑫攀†***，李勃朝†，刘晨斌，李欣学，化刘杰，李津臣，武琳*，赵贵虎*.  
   *PBD: A Manually Curated Full-Chain Benchmark Dataset for Evaluating LLMs on ACMG PS3/BS3 Functional Evidence Acquisition.*（Short Paper）
 
----
-
 ## ⭐ 2025
-
 ### Genetics in Medicine（中科院 1 区 TOP）
 - **Xinpan Yuan†**, Xingquan Xia†, Jinchen Li*, Guihu Zhao*.  
   *HCSeeker: A classification tool for human genetic variant hot and cold spots designed for PM1 and benign criteria.*  
@@ -73,8 +65,6 @@
 - *Dual-Modal Structural Decoupling with Semantic Relation Distillation for TBPS.*  
 - *CLIO: Consistency-Aware Learning and Intra-Modal Optimization for TBPS.*
 
----
-
 ## ⭐ 2024 及以前代表作
 
 ### Complex & Intelligent Systems（中科院 2 区）
@@ -97,7 +87,6 @@
 - 以上排序按发表时间倒序排列
 ---
 # 🧪 科研项目
-
 ## 🎯 一、主持科研项目
 
 ### 🌟 国家自然科学基金
