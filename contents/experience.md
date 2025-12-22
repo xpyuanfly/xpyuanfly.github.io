@@ -1,21 +1,25 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **个人经历**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+## 🎓 教育经历
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- **2009.09 – 2012.12** 中南大学  
+  计算机应用技术专业 · 博士  
+  导师：桂卫华院士、龙军教授  
+
+- **2005.09 – 2008.06** 中南大学  
+  计算机应用技术专业 · 硕士  
+  导师：张祖平教授  
+
+- **2001.09 – 2005.06** 中南大学  
+  计算机科学与技术专业 · 本科  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+## 🧑‍💼 工作经历
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- **2023/03 – 至今**：湖南工业大学 计算机学院 副院长  
+- **2013/07 – 至今**：湖南工业大学 计算机学院 讲师 / 副教授 / 教授  
+- **2016/07 – 2023/02**：物联网系党支部书记、系副主任  
+- **2014/03 – 2014/09**：教育部科技司 计划处，借调  
+- **2012/07 – 2013/07**：教育部科技司 基础处，借调  
+- **2008/07 – 2009/07**：招商银行深圳研发中心 软件工程师  
