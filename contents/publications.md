@@ -8,6 +8,21 @@
 - **Xinpan Yuan†**, Shaomin Xie†, Liujie Hua*, Chengyuan Zhang*, Guihu Zhao, Lin Yuanbo Wu*.  
   *Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval.*
 ---
+2026（新增）
+### DASFAA 2026（CCF B）
+-**Xinpan Yuan**, Wenguang Gan, Chengyuan Zhang.
+Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search.
+
+- **Xinpan Yuan**, Jianuo Ju, Liujie Hua, Changhong Zhang.
+Set-to-One Structured Captioning for Heterogeneous Nasal Image Collections via Spatio-Temporal Modeling and Clinical Knowledge Integration.
+
+### ICASSP 2026（CCF B）
+- Pinjie He, Jue Wang, **Xinpan Yuan***.
+SDORG: Structurally Deconstructed Framework for Otoscopic Report Generation with Region-Aware Multimodal Alignment.
+
+-  Shaomin Xie, **Xinpan Yuan***, Wenguang Gan, Jiawei He, Liujie Hua†.
+CCMA: Consistency-Aware Cross-Modal Alignment for Text-Based Person Retrieval.
+
 ## ⭐ 2025
 ### BIBM 2025（CCF B）
 - 夏性权†，赵贵虎†，李津臣，**袁鑫攀***.  
@@ -98,9 +113,15 @@
 - **2025JJ70028** 工业智能烧结炉云平台关键技术研究  
   2025–2027 · 5 万元 · 在研
 - **2024JJ9550** 语义指导的鼻内镜腺样体肥大诊断报告生成  
-  2024–2026 · 2.5 万元 · 主持（参与单位）
+  2024–2026 · 5 万元 · 主持（参与单位）
 - **2025JJ81178** 视觉关系驱动的内窥镜腺样体分割分级  
-  2025–2027 · 2.5 万元 · 主持（参与单位）
+  2025–2027 · 5 万元 · 主持（参与单位）  
+- **2026JJ81383**  基于智能辅助的膀胱镜术后患者个体化护理路径生成与实践研究
+  2026.01–2028.12 · 5 万元 · 主持（参与单位）  
+- **2026JJ81941**  鼻内镜分泌物属性建模与鼻腔慢性疾病分型研究
+  2026.01–2028.12 · 5 万元 · 主持（参与单位）  
+- **20254688** 面向结构识别与语义生成的鼻内镜智能诊断大模型
+  2026.01–2028.12 · 5 万元 ·主持（参与单位）  
 - **2022JJ30231** 无监督图像相似性度量（文本融合）  
   2022–2024 · 5 万元 · 已结题
 - **2018JJ2099** 细粒度位码 IDistance 高维索引  
