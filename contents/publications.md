@@ -7,30 +7,20 @@
 ### AAAI 2026（CCF A，Oral）
 - **Xinpan Yuan†**, Shaomin Xie†, Liujie Hua*, Chengyuan Zhang*, Guihu Zhao, Lin Yuanbo Wu*.  
   *Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval.*
----
-2026（新增）
-### DASFAA 2026（CCF B）
--**Xinpan Yuan**, Wenguang Gan, Chengyuan Zhang.
-Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search.
 
-- **Xinpan Yuan**, Jianuo Ju, Liujie Hua, Changhong Zhang.
-Set-to-One Structured Captioning for Heterogeneous Nasal Image Collections via Spatio-Temporal Modeling and Clinical Knowledge Integration.
+### DASFAA 2026（CCF B）
+- **Xinpan Yuan**, Wenguang Gan, Chengyuan Zhang. Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search.
+- **Xinpan Yuan**, Jianuo Ju, Liujie Hua, Changhong Zhang. Set-to-One Structured Captioning for Heterogeneous Nasal Image Collections via Spatio-Temporal Modeling and Clinical Knowledge Integration.
 
 ### ICASSP 2026（CCF B）
-- Pinjie He, Jue Wang, **Xinpan Yuan***.
-SDORG: Structurally Deconstructed Framework for Otoscopic Report Generation with Region-Aware Multimodal Alignment.
-
--  Shaomin Xie, **Xinpan Yuan***, Wenguang Gan, Jiawei He, Liujie Hua†.
-CCMA: Consistency-Aware Cross-Modal Alignment for Text-Based Person Retrieval.
+- Pinjie He, Jue Wang, **Xinpan Yuan***.SDORG: Structurally Deconstructed Framework for Otoscopic Report Generation with Region-Aware Multimodal Alignment.
+- Shaomin Xie, **Xinpan Yuan***, Wenguang Gan, Jiawei He, Liujie Hua†. CCMA: Consistency-Aware Cross-Modal Alignment for Text-Based Person Retrieval.
 
 ## ⭐ 2025
 ### BIBM 2025（CCF B）
-- 夏性权†，赵贵虎†，李津臣，**袁鑫攀***.  
-  *HCSeer2: A Deep Learning-Based Multi-Scale Modeling Framework for Predicting Cold and Hot Spots of Variants in the Human Exome.*（Regular Paper）
-- **袁鑫攀†***，黄明珠.  
-  *VRSegNet: Visual-Relation-Guided Segmentation of Clear Nasal Discharge under Anatomical Constraints for Rhinitis Assessment.*（Regular Paper）
-- **袁鑫攀†***，李勃朝†，刘晨斌，李欣学，化刘杰，李津臣，武琳*，赵贵虎*.  
-  *PBD: A Manually Curated Full-Chain Benchmark Dataset for Evaluating LLMs on ACMG PS3/BS3 Functional Evidence Acquisition.*（Short Paper）
+- 夏性权†，赵贵虎†，李津臣，**袁鑫攀***. HCSeer2: A Deep Learning-Based Multi-Scale Modeling Framework for Predicting Cold and Hot Spots of Variants in the Human Exome.（Regular Paper）
+- **袁鑫攀†***，黄明珠. VRSegNet: Visual-Relation-Guided Segmentation of Clear Nasal Discharge under Anatomical Constraints for Rhinitis Assessment.（Regular Paper）
+- **袁鑫攀†***，李勃朝†，刘晨斌，李欣学，化刘杰，李津臣，武琳*，赵贵虎*.PBD: A Manually Curated Full-Chain Benchmark Dataset for Evaluating LLMs on ACMG PS3/BS3 Functional Evidence Acquisition.（Short Paper）
 
 ### Genetics in Medicine（中科院 1 区 TOP）
 - **Xinpan Yuan†**, Xingquan Xia†, Jinchen Li*, Guihu Zhao*.  
