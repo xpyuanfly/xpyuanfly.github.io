@@ -8,9 +8,17 @@
 - **Xinpan Yuan†**, Shaomin Xie†, Liujie Hua*, Chengyuan Zhang*, Guihu Zhao, Lin Yuanbo Wu*.  
   *Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval.*
 
+### ICME 2026（CCF B）
+- **Xinpan Yuan**, Jianuo Ju, Liujie Hua, Yueyi Luo, Changhong Zhang, Xiaoyu Pan, Yueming Wang. ASAG: Anatomical Structure-Aware Grading for Nasal Endoscopic Severity Assessment.
+- Wenguang Gan, Liujie Hua, Yuqi Chen, **Xinpan Yuan(第一通信)**, Yueyi Luo, Changhong Zhang, Shaomin Xie, Jiawei He. RCR: Robust Confident Refine Framework for Composed Image Retrieval
+- Shaomin Xie, Liujie Hua, Wenguang Gan, Jiawei He, Changhong Zhang, **Xinpan Yuan(第一通信)**, Yueyi Luo. HiSA: Hierarchical Semantic Abstraction for Fine-Grained Text-Based Person Re-identification
+- Xiaoyun Zhang, Xianjun Li, Liujie Hua,**Xinpan Yuan(唯一通信)**, Mingming Wang. FLSG-DR: Fragmented Lesion–Guided Grading for Diabetic Retinopathy
+- Pinjie He, Mingming Wang, Liujie Hua, **Xinpan Yuan(第一通信)**, Xiaoyun Zhang, Xianjun Li. LogAD-Glass: Logical Anomaly Detection in Industrial Glass with Consistency-Aware Reasoning
+
 ### DASFAA 2026（CCF B）
 - **Xinpan Yuan**, Wenguang Gan, Chengyuan Zhang. Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search.
 - **Xinpan Yuan**, Jianuo Ju, Liujie Hua, Changhong Zhang. Set-to-One Structured Captioning for Heterogeneous Nasal Image Collections via Spatio-Temporal Modeling and Clinical Knowledge Integration.
+
 
 ### ICASSP 2026（CCF B）
 - Pinjie He, Jue Wang, **Xinpan Yuan***.SDORG: Structurally Deconstructed Framework for Otoscopic Report Generation with Region-Aware Multimodal Alignment.
@@ -18,11 +26,11 @@
 
 ## ⭐ 2025
 ### BIBM 2025（CCF B）
-- 夏性权†，赵贵虎†，李津臣，**袁鑫攀***. HCSeer2: A Deep Learning-Based Multi-Scale Modeling Framework for Predicting Cold and Hot Spots of Variants in the Human Exome.（Regular Paper）
+- 夏性权†，赵贵虎†，李津臣，**袁鑫攀(唯一通信)**. HCSeer2: A Deep Learning-Based Multi-Scale Modeling Framework for Predicting Cold and Hot Spots of Variants in the Human Exome.（Regular Paper）
 - **袁鑫攀†***，黄明珠. VRSegNet: Visual-Relation-Guided Segmentation of Clear Nasal Discharge under Anatomical Constraints for Rhinitis Assessment.（Regular Paper）
 - **袁鑫攀†***，李勃朝†，刘晨斌，李欣学，化刘杰，李津臣，武琳*，赵贵虎*.PBD: A Manually Curated Full-Chain Benchmark Dataset for Evaluating LLMs on ACMG PS3/BS3 Functional Evidence Acquisition.（Short Paper）
 
-### Genetics in Medicine（中科院 1 区 TOP）
+### Genetics in Medicine 2025（中科院 1 区 TOP）
 - **Xinpan Yuan†**, Xingquan Xia†, Jinchen Li*, Guihu Zhao*.  
   *HCSeeker: A classification tool for human genetic variant hot and cold spots designed for PM1 and benign criteria.*  
   链接：https://pubmed.ncbi.nlm.nih.gov/41017653/
@@ -61,18 +69,8 @@
 - X. Zhang et al., **X. Yuan***  
   *HADFF: Composed Image Retrieval Based on Hybrid-Attention and Dynamic Feature Fusion.*
 
-### ICIC 2025（多篇，CCF C）
-- *MEN-AD: Multimodal Zero-Shot Detection of Mucus Anomalies in Endoscopy.*  
-- *VAMP: Visual Attribute-Guided Multi-dimensional Perception for Nasal Endoscopy Report Generation.*  
-- *MAS-ZSAS: A Zero-Shot Anomaly Segmentation Framework with Multi-attribute Guided Text Prompts.*  
-- *TPS-SG: A Semantic-Generalization Model with Lightweight Mix-Augmentation for Text-Based Person Search.*  
-- *Advanced Font-Aware Document Hierarchy Reconstruction for Structured Parsing.*  
-- *Dual-Modal Structural Decoupling with Semantic Relation Distillation for TBPS.*  
-- *CLIO: Consistency-Aware Learning and Intra-Modal Optimization for TBPS.*
 ---
-## ⭐ 2024 及以前代表作
-
-### Complex & Intelligent Systems（中科院 2 区）
+### Complex & Intelligent Systems 2024（中科院 2 区）
 - **Yuan, X.**, Xie, S., Zeng, Z., et al.  
   *nHi-SEGA: n-Hierarchy Semantic Guided Attention for Few-Shot Learning.*  
   链接：https://link.springer.com/article/10.1007/s40747-024-01546-5
